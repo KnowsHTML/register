@@ -1,0 +1,8 @@
+{
+    "name": "untraceable",
+    "records": {
+        "CNAME": "theuntraceable.tech"
+    },
+    "proxied": true,
+    "ttl": 300
+}
