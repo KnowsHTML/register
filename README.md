@@ -78,3 +78,6 @@ I've been accepted into Cloudflare's email routing system, so if you would like 
 This is using Freenom, for the free domain, and it's only been registered for a year. This *might* mean that I am unable to keep this domain, Freenom *does* let me renew the domain a few days before it expires. I have made my Cloudflare API key and Github Person Access Token both expire on 5th of August 2023, so I will also need to update that. If you love the project and are up for it, remind me to renew the domain. If it isn't for free, I will have to renew it again, making the domain unavailable, *for a while though*. Whilst writing this I've realised that I still have your data, just not applied it, so I can very easily just reapply them.
 
 I am not responsible for whatever you do on your domain. I am the owner of the root domain, you are the owner of the subdomain. You are responsible, and I am not to blame for **anything at all**.
+
+## __Disclaimer__
+This has been discontinued. If you really want a subdomain at `knows-ht.ml`, DM me on Discord with the information. I'll do it manually :D
