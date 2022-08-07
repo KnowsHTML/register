@@ -1,7 +1,7 @@
 # [Knows-HT.ML](https://knows-ht.ml)
 Register a subdomain for **knows-ht.ml** today!
 ## How does it work?
-You must create a pull request with a new JSON file within the `domains ` folder, the name of it is irrelevant, just make sure it is unique.
+You must create a pull request with a new JSON file within the `domains` folder, the name of it is irrelevant, just make sure it is unique.
 It must follow the format provided below.
 ```jsonc
 {
